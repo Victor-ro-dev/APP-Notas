@@ -1,7 +1,7 @@
 // ─── Configuração ─────────────────────────────────────────────────────────────
 // Após o deploy no Render, substitua a URL abaixo pela URL real do seu serviço.
 // Ex.: const API_URL = 'https://notes-api-xxxx.onrender.com/api/notes';
-const API_URL = "https://app-notas-3vl7.onrender.com/";
+const API_URL = "https://app-notas-3vl7.onrender.com/api/notes";
 
 // ─── Referências DOM ──────────────────────────────────────────────────────────
 const noteForm = document.getElementById("note-form");
